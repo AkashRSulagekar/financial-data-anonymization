@@ -1,11 +1,5 @@
-Here is the **README in plain text format** exactly as you asked — no markdown formatting, no special characters, just clean text you can paste anywhere:
-
----
-
 DATA ANONYMIZATION IN FINANCIAL SYSTEMS
-A Mini Project on Privacy-Preserving Data Transformation
 
-PROJECT OVERVIEW
 This project focuses on anonymizing sensitive financial customer data using multiple privacy techniques. The goal is to protect identifiable information while keeping the dataset useful for analysis. The script applies methods such as k-anonymity, masking, pseudonymization, generalization, and tokenization.
 
 DATASET
@@ -89,8 +83,3 @@ Add t-closeness
 Automatic city to state mapping using external database
 Configurable privacy levels
 GUI tool for anonymization
-
-AUTHOR
-Arshad Athani
-Computer Science Engineering Student
-Focused on Data Privacy and Cybersecurity
